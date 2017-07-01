@@ -1,0 +1,22 @@
+input[type=text]{
+    width: 70%;
+    padding: 10px 12px;
+    margin: 15px;
+    border: 2px solid gray;
+}
+input[type=password]{
+    width: 70%;
+    padding: 10px 12px;
+    margin: 15px;
+    border: 2px solid gray;
+}
+button{
+    background-color: brown;
+    color: wheat;
+     width: 70%;
+     padding: 10px 12px;
+    margin: 15px;
+}
+body{
+    background-color: red;
+}
